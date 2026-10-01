@@ -1,0 +1,45 @@
+# Python
+
+**pycache**/
+*.pyc
+
+# Virtual Environment
+
+venv/
+.venv/
+
+# Environment
+
+.env
+
+# SQLite Database
+
+*.db
+*.sqlite3
+
+# Pytest
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Temporary Files
+
+*.tmp
